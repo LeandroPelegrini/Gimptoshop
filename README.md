@@ -45,7 +45,7 @@ sudo apt install git
  #### Linux
  1. Install git on your system if not arleady done
   2.  Download the .zip file from that page
-3.  Right-click on uninstall.sh in the /tools folder
+3.  Right-click on install.sh in the /tools folder
    4. Select Properties
    5. Select Permissions
    6. Select Allow executing file as a program
